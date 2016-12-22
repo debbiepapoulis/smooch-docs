@@ -4,7 +4,7 @@ section: docs
 layout: two-column
 ---
 
-# Smooch Docs
+# Smooch Documention
 
 Smooch makes it a cinch to add conversational capabilities to your product or business. In these docs you'll find everything you need to use our platform, the Smooch Conversation Cloud.
 
